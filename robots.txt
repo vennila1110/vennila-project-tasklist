@@ -1,0 +1,14 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+ useEffect(() => {
+    console.log("Saving items to Local Storage: ", items);
+    localStorage.setItem('tasklist', JSON.stringify(items));
+  }, [items]);
+
+  useEffect(() => {
+    const savedItems = JSON.parse(localStorage.getItem('tasklist')) || [];
+    console.log("Loaded items from Local Storage: ", savedItems);
+    setItems(savedItems);
+  }, []);

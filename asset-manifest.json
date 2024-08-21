@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vennila1110/vennila-project-tasklist.git/static/css/main.492d5152.css",
+    "main.js": "/vennila1110/vennila-project-tasklist.git/static/js/main.339cf364.js",
+    "static/js/453.b20ed47d.chunk.js": "/vennila1110/vennila-project-tasklist.git/static/js/453.b20ed47d.chunk.js",
+    "index.html": "/vennila1110/vennila-project-tasklist.git/index.html",
+    "main.492d5152.css.map": "/vennila1110/vennila-project-tasklist.git/static/css/main.492d5152.css.map",
+    "main.339cf364.js.map": "/vennila1110/vennila-project-tasklist.git/static/js/main.339cf364.js.map",
+    "453.b20ed47d.chunk.js.map": "/vennila1110/vennila-project-tasklist.git/static/js/453.b20ed47d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.492d5152.css",
+    "static/js/main.339cf364.js"
+  ]
+}
